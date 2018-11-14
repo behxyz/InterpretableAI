@@ -23,8 +23,14 @@ Gradient-based Methods
 Representation Visualization and Quantification
 -------------------------------------------------------------------------------
 
-- **Network Dissection**: a method for quantifying interpretability of individual units in a deep CNN. It works by measuring the alignment between unit response and a set of concepts drawn from a broad and dense segmentation data set called Broden. \[[original paper](http://netdissect.csail.mit.edu/final-network-dissection.pdf), [extended paper](https://arxiv.org/pdf/1711.05611), [presentation](https://www.youtube.com/watch?v=Xy6RcjXMa2c)]
+- **Network Dissection**: It quantifies interpretability of individual units in a deep CNN. It works by measuring the alignment between unit response and a set of concepts drawn from a broad and dense segmentation data set called Broden. \[[original paper](http://netdissect.csail.mit.edu/final-network-dissection.pdf), [extended paper](https://arxiv.org/pdf/1711.05611), [presentation](https://www.youtube.com/watch?v=Xy6RcjXMa2c)]
 
 - Visualizing and Understanding Convolutional Networks (2014). \[[paper](http://dx.doi.org/10.1007/978-3-319-10590-1_53)]
 
 - Striving for Simplicity: The All Convolutional Net (2014). \[[paper](https://arxiv.org/abs/1412.6806)]
+
+Others
+-----------
+
+- Examples are not Enough, Learn to Criticize! Criticism for Interpretability. \[[paper](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf)]
+- Explanation in Artificial Intelligence: Insights from the Social Sciences. \[[paper](https://arxiv.org/abs/1706.07269)]
