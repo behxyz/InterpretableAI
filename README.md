@@ -24,6 +24,12 @@ Here I try to organize most important ideas in the field of interpretable machin
 - [Intracranial Hemorrhage](./interpretability_in_medicine.md#intracranial-hemorrhage)
 - [Stroke](./interpretability_in_medicine.md#stroke)
 - [ECG](./interpretability_in_medicine.md#eeg)
+- [Electronic Health Records](./interpretability_in_medicine.md)
+- [Radiology Reports](./interpretability_in_medicine.md)
+
+[Other Applications of Interpretability](./interpretability_applications.md)
+-------------------------------------------------------------------------------
+
 
 [Tools of Interpretability in Practice](./interpretability_methods.md)
 -------------------------------------------------------------------------------
