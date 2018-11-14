@@ -15,7 +15,7 @@ Here I try to organize most important ideas in the field of interpretable machin
 - [Gradient-based methods](./interpretability_methods.md#decomposition-based-methods)\
   These methods try to find how a change in each of the nodes affect the target.
 
-- [Representation Visualization and Quantification](./interpretability_methods.md#Representation-Visualization-and-Quantification)\
+- [Representation Visualization and Quantification](./interpretability_methods.md#representation-visualization-and-quantification)\
    These methods try to make sense of inner layers and understand what they are representing.
 
 [Applications of Interpretability in Medicine](./interpretability_in_medicine.md)
@@ -30,6 +30,7 @@ Here I try to organize most important ideas in the field of interpretable machin
 [Other Applications of Interpretability](./interpretability_applications.md)
 -------------------------------------------------------------------------------
 
+- [Self Driving Cars](./interpretability_applications.md#self-driving-cars)
 
 [Tools of Interpretability in Practice](./interpretability_methods.md)
 -------------------------------------------------------------------------------
@@ -39,4 +40,3 @@ Here I try to organize most important ideas in the field of interpretable machin
 - [SmoothGrad](https://github.com/pair-code/saliency)
 - [Embedding Projector](http://projector.tensorflow.org)
 - [Play Ground](http://playground.tensorflow.org/)
-
