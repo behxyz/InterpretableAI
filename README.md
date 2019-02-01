@@ -1,4 +1,4 @@
-Interpretable Machine Learning in Medicine
+Interpretable Machine Learning
 ===============================================================================
 
 Machine learning algorithms, especially deep learning, have proved to provide great performances on various tasks like classification, object detection, segmentation, etc. but making decision based on these results comes with responsibilities and need to be supported with the evidences.
@@ -27,7 +27,7 @@ Here I try to organize most important ideas in the field of interpretable machin
 - [Electronic Health Records](./interpretability_in_medicine.md)
 - [Radiology Reports](./interpretability_in_medicine.md)
 
-[Other Applications of Interpretability](./interpretability_applications.md)
+[Applications of Interpretability in Smart Cities](./interpretability_applications.md)
 -------------------------------------------------------------------------------
 
 - [Self Driving Cars](./interpretability_applications.md#self-driving-cars)
