@@ -2,9 +2,10 @@ Interpretable Machine Learning
 ===============================================================================
 
 Machine learning algorithms, especially deep learning, have proved to provide great performances on various tasks like classification, object detection, segmentation, etc. but making decision based on these results comes with responsibilities and need to be supported with the evidences.
-Medicine particularly is an area that decisions comes with a huge responsibility, so for machine learning to be useful in clinics and to aid clinicians, it requires to provide evidences for its output and in other words be *interpretable*.
 
-Here I try to organize most important ideas in the field of interpretable machine learning and explore its applications in medicince.
+Medicine and self-driving cars are particular areas that decisions comes with a huge responsibility. Thus for machine learning to be useful in clinics to aid clinicians, and in cars to ensure safety of passengers, it requires to provide evidences for its decisions and consequently be *interpretable*. Interpretability in this sense not only make the models inspectable (to ensure the performance in the edge cases) but also can generate ingestible knowledge for human or machines.
+
+Here I try to organize most important ideas in the field of interpretable machine learning and explore its applications in medicine and self-driving cars.
 
 [Methods of Interpretability for Deep Learning Models](./interpretability_methods.md)
 -------------------------------------------------------------------------------
