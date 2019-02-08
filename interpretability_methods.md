@@ -16,9 +16,14 @@ Decomposition-based Methods
 Gradient-based Methods
 -------------------------------------------------------------------------------
 
-- **Class Activation Map (CAM)** : Learning Deep Features for Discriminative Localization’. \[[paper](http://dx.doi.org/10.1109/CVPR.2016.319)]
-- **Grad-CAM**: Selvaraju, R. R. et al.(2017) ‘Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization’. \[[paper](http://dx.doi.org/10.1109/ICCV.2017.74)]
-- **Grad-CAM++**: building on Grad-CAM, it provides better visual explanations of CNN model predictions, in terms of better object localization as well as explaining occurrences of multiple object instances in a single image. \[[paper](https://arxiv.org/abs/1710.11063)]
+- **Class Activation Map (CAM)** : Learning Deep Features for Discriminative Localization. \[[paper](http://dx.doi.org/10.1109/CVPR.2016.319)]
+- **Grad-CAM**: Visual Explanations from Deep Networks via Gradient-Based Localization. \[[paper](http://dx.doi.org/10.1109/ICCV.2017.74)]
+- **Grad-CAM++**: Building on Grad-CAM, it provides better visual explanations of CNN model predictions, in terms of better object localization as well as explaining occurrences of multiple object instances in a single image. \[[paper](https://arxiv.org/abs/1710.11063)]
+- **SmoothGrad**: removing noise by adding noise \[[paper](https://arxiv.org/abs/1706.03825)] \[[code](https://github.com/pair-code/saliency)] \[[more descriptions](https://pair-code.github.io/saliency/)]
+
+- **Integrated Gradients**: Axiomatic Attribution for Deep Networks. It uses to  two fundamental axioms *Sensitivity* and *Implementation Invariance* to guide the design of a new attribution method. \[[paper](https://arxiv.org/abs/1703.01365)] \[[code](https://github.com/ankurtaly/Integrated-Gradients)]
+
+- Vanilla Gradients (paper, paper)
 
 Representation Visualization and Quantification
 -------------------------------------------------------------------------------
@@ -28,6 +33,8 @@ Representation Visualization and Quantification
 - Visualizing and Understanding Convolutional Networks (2014). \[[paper](http://dx.doi.org/10.1007/978-3-319-10590-1_53)]
 
 - Striving for Simplicity: The All Convolutional Net (2014). \[[paper](https://arxiv.org/abs/1412.6806)]
+
+- Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (2013). \[[paper](https://arxiv.org/abs/1312.6034)]
 
 Others
 -----------

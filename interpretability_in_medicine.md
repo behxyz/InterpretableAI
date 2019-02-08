@@ -1,4 +1,4 @@
-Interpretability in Medicine
+Interpretability Applications in Medicine
 ===============================================================================
 
 Intracranial Hemorrhage

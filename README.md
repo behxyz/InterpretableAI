@@ -27,12 +27,12 @@ Here I try to organize most important ideas in the field of interpretable machin
 - [Electronic Health Records](./interpretability_in_medicine.md)
 - [Radiology Reports](./interpretability_in_medicine.md)
 
-[Applications of Interpretability in Smart Cities](./interpretability_applications.md)
+[Applications of Interpretability in Smart Cities](./interpretability_in_smart_cities.md)
 -------------------------------------------------------------------------------
 
 - [Self Driving Cars](./interpretability_applications.md#self-driving-cars)
 
-[Tools of Interpretability in Practice](./interpretability_methods.md)
+[Tools for Interpretability in Practice](./interpretability_methods.md)
 -------------------------------------------------------------------------------
 
 - [What-If](https://pair-code.github.io/what-if-tool/)
